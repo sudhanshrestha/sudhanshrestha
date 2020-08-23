@@ -11,5 +11,3 @@
 - 🤔 I’m looking for help with an app idea for my final year project.
 - ⚡ Fun fact: I love to anime/manga.
 - 📫 How to reach me: sudhanbshrestha@gmail.com
-
-
