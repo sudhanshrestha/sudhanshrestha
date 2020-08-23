@@ -31,8 +31,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-  <p>
-
+  <p></p>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sakazux.vercel.app/api?username=sakazux&show_icons=true&hide_border=true" />
+</details>
 
 
 <p align="center">
@@ -45,7 +48,4 @@
 
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sakazux.vercel.app/api?username=sakazux&show_icons=true&hide_border=true" />
-</details>
+
