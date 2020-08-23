@@ -9,11 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakazux" alt="sakazux" /> </p>
 - 🔭 I’m currently working on App development.
+
 - 🌱 I’m currently learning everything 🤣
+
 - 👯 I’m looking to collaborate with other developers
+
 - 🥅 2020 Goals: Create the a good final year project.
+
 - 🤔 I’m looking for help with an app idea for my final year project.
+
 - ⚡ Fun fact: I love to anime/manga.
+
 - 📫 How to reach me: sudhanbshrestha@gmail.com
 
 ### Blogs posts
