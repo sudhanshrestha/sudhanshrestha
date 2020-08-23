@@ -14,7 +14,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sakazux?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/sakazux)
 
-[![Spotify](https://sakazux.vercel.app/api/spotify)](https://open.spotify.com/user/Sakazux)
+[![Spotify](https://sakazux.vercel.app/api/spotify)](https://open.spotify.com/user/rmulxfewf5uln0fedrhvahmch?si=hSvDc1lrTCiNehUUYGPn7g)
 
 <details>
   <summary>:zap: Github Stats</summary>
