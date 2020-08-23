@@ -43,9 +43,8 @@
 <a href="https://medium.com/@sudhanbshrestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sudhanbshrestha" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+## :zap: GitHub Status 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sakazux.vercel.app/api?username=sakazux&show_icons=true&hide_border=true" />
-</details>
+
 
 
