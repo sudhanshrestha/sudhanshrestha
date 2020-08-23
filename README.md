@@ -13,6 +13,9 @@
 - 📫 How to reach me: sudhanbshrestha@gmail.com
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sakazux?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/sakazux)
+
+[![Spotify](https://sakazux.vercel.app/api/spotify)](https://open.spotify.com/user/Sakazux)
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.sakazux.vercel.app/api?username=sakazux&show_icons=true&hide_border=true" />
