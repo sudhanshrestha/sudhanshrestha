@@ -20,7 +20,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-## Skills
+## :computer: Skills
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -33,7 +33,7 @@
 </p>
 
 
-## Social media
+## :link: Social media
 
 <p align="left">
 <a href="https://twitter.com/sakazux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sakazux" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
