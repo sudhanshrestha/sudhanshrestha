@@ -1,6 +1,6 @@
 # **Hey there, I'm Sudhan Shrestha! 👋**
 
-🎓 I recently graduated with a BSc. Honors in Computing and I'm ready to take on the world of AI and Data! 💻
+🎓Currently a Data Analyst and I'm ready to take on the world of AI and Data! 💻
 
 🤓 I'm a lifelong learner with a passion for exploring new technologies and finding innovative solutions to complex problems. Whether it's building intelligent systems, analyzing data to uncover insights, or diving into new coding challenges, I'm always eager to expand my skillset and push myself to new heights.
 
